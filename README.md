@@ -41,7 +41,7 @@ PHONE=your_phone_number
 
 ## 💻 Installation
 
-- git clone https://github.com/Gunner2033d/Automated_Job_Apply_on_LinkedIn
+- git clone https://github.com/Gunner2033d/Automated_Job_Apply_on_LinkedIn.git
 - cd linkedin-auto-apply-bot
 - pip install -r requirements.txt
 
